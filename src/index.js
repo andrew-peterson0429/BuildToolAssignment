@@ -1,3 +1,6 @@
+import _ from 'lodash';
+import './styles.css';
+
 // Array of Todo Items
 let todoArray = [
   {

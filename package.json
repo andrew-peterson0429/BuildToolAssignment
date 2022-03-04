@@ -1,0 +1,30 @@
+{
+  "name": "buildtoolassignment",
+  "version": "1.0.0",
+  "description": "builder1",
+  "main": "./src/js/index.js",
+  "scripts": {
+    "test": "test",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrew-peterson0429/BuildToolAssignment.git"
+  },
+  "author": "Andrew Peterson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrew-peterson0429/BuildToolAssignment/issues"
+  },
+  "homepage": "https://github.com/andrew-peterson0429/BuildToolAssignment#readme",
+  "devDependencies": {
+    "css-loader": "^6.7.0",
+    "parcel": "^2.3.2",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
